@@ -1,32 +1,15 @@
 # post-convert
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+Converts from my old static blog post format to Jeykll post format.
 
 ## Usage
 
-FIXME: explanation
+```
+lein run
+```
 
-    $ java -jar post-convert-0.1.0-standalone.jar [args]
+Reads old blog posts and creates new files in the correct Jekyll format in the ``./output`` folder.
 
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
 
